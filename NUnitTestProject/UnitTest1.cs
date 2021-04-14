@@ -24,7 +24,6 @@ namespace NUnitTestProject
         public void Test1()
         {
             driver.Url = test_url;
-            System.Threading.Thread.Sleep(2000);
 
             IWebElement searchText = driver.FindElement(By.CssSelector("[name = 'q']"));
 
