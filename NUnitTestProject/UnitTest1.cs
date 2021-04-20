@@ -35,6 +35,8 @@ namespace NUnitTestProject
 
             Console.WriteLine("Test Passed");
         }
+
+        [TearDown]
         public void close_Browser()
         {
             driver.Quit();
