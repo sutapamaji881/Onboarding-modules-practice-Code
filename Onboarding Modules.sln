@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTestProject", "NUnitTestProject\NUnitTestProject.csproj", "{EAC91542-2E1C-4F16-AC78-D7CB07C0D9EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProject", "SpecFlowProject\SpecFlowProject.csproj", "{A57CB8FC-7E11-43A0-945E-86703BEA330A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecFlowProject", "SpecFlowProject\SpecFlowProject.csproj", "{A57CB8FC-7E11-43A0-945E-86703BEA330A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefandOut", "RefandOut\RefandOut.csproj", "{17C3AE5E-0355-4419-A921-82EDF5321F05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A57CB8FC-7E11-43A0-945E-86703BEA330A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A57CB8FC-7E11-43A0-945E-86703BEA330A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A57CB8FC-7E11-43A0-945E-86703BEA330A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C3AE5E-0355-4419-A921-82EDF5321F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C3AE5E-0355-4419-A921-82EDF5321F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C3AE5E-0355-4419-A921-82EDF5321F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C3AE5E-0355-4419-A921-82EDF5321F05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
